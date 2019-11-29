@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends BaseActivity {
-
+//这是测试推的代码
     private ImageView imageview;
     private TabLayout tablayout;
     private ViewPager viewpager;
